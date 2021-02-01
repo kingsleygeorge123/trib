@@ -1,0 +1,69 @@
+body {
+  font-size: 1.125rem;
+  margin: 0;
+}
+
+#main {
+  width: 100%;
+  max-width: 95%;
+  margin: auto;
+  padding: 1rem;
+  background: rgb(235, 228, 228);
+}
+#title {
+  text-align: center;
+  font-size: 3em;
+}
+.title-info {
+  font-size: 1.2em;
+  font-style: normal;
+}
+p {
+  text-align: center;
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+#img-div {
+  background: white;
+}
+#img-caption {
+  font-size: 1.1em;
+  font-style: normal;
+  margin-top: 2em;
+  padding-bottom: 2em;
+}
+h4 {
+  text-align: center;
+  font-size: 1.2em;
+}
+#tribute-info {
+  align-content: center;
+  max-width: 100%;
+  margin: auto;
+  font-size: 1em;
+  line-height: 2em;
+}
+#tribute-link {
+  font-size: 1em;
+  padding-top: 1.5em;
+  padding-bottom: 2em;
+  text-align: center;
+}
+blockquote {
+  padding-top: 1.5em;
+}
+footer {
+  padding-top: 1.5em;
+}
+.kingsley {
+  font-size: 1em;
+  text-align: right;
+
+}
